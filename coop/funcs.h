@@ -3,5 +3,6 @@
 double MySum(double, double);
 double MyMul(double, double);
 double MyDiv(double, double);
+double MySub(double, double);
 #endif // FUNCS_H
 

@@ -21,11 +21,11 @@ switch (count) // начало оператора switch
     cout << MySum(a,b) << endl;
     break;
 }
-  //  case 2: // если count = 2
-//{
- //   cout << MySub(a,b) << endl;
- //   break;
-//}
+    case 2: // если count = 2
+{
+    cout << MySub(a,b) << endl;
+    break;
+}
     case 3: // если count = 3
 {
     cout <<   MyMul(a,b)  << endl;
