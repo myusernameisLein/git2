@@ -1,11 +1,11 @@
 #include <iostream>
+#include <funcs.h>
 
 using namespace std;
 
 int main()
 {
-    cout << "Hello World!" << endl;
-    return 0;
+
 int count; // переменная для выбора в switch
 double a, b; // переменные для хранения операндов
     cout << "Vvedite pervoe chislo: ";
